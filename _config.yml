@@ -26,25 +26,21 @@ desc: Philippines LTO Driver's License Validator
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar.jpg"
+avatar: "/img/card.png"
 
 # List of links in the navigation bar
 nav-links:
   Home: ""
-  About Me: "aboutme"
-  Contact: "contact"  
+  Privacy: "privacy"
+  TOS: "tos"  
   
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
 profile:
-  name: Babji Chetty
-  email: Your-Email
-  facebook: your-fb-id
-  github: your-github-id 
-  twitter: your-twitter-id
-  linkedin: your-linkedin-id
-  stackoverflow: your-stackoverflow-id
+  name: Jose Minao
+  email: joseminao@protonmail.com
+  github: yoseminao
 
 # To display link in the footer section
 pretty-url: "bchetty.com"
@@ -58,7 +54,7 @@ disqus: "Your-Disqus-Id"
 google_analytics: "Your-GA-Id"
 
 # Set these options as you need (For more information, check Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "Asia/Manila"
 markdown: kramdown
 #highlighter: rouge
 kramdown:
