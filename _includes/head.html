@@ -13,11 +13,5 @@
     {% else %}
         <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
     {% endif %}
-    {% if page.fb-img %}
-        <meta property="og:image" content="{{ page.fb-img }}" />
-    {% elsif site.avatar %}
-        <meta property="og:image" content="{{ site.url }}{{ site.card }}" />
-    {% else %}
-        <meta property="og:image" content="" />
-    {% endif %}
+    <meta property="og:image" content="{{ site.baseurl }}/assets/img/card.png" />
 </head>
