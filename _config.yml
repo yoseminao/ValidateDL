@@ -2,7 +2,6 @@
 # Gems
 gems: 
 - jekyll-paginate
-- jekyll-feed
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
