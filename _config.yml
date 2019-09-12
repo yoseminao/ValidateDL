@@ -21,14 +21,7 @@ keywords: LTO, Driver, License
 # Short description of your site
 desc: Philippines LTO Driver's License Validator
 
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
-nav-links:
-  Home: ""
-  Privacy: "privacy"
-  TOS: "tos"  
-  
+ 
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
