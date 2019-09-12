@@ -44,7 +44,7 @@ google_analytics: "Your-GA-Id"
 
 # Set these options as you need (For more information, check Jekyll's site)
 timezone: "Asia/Manila"
-
+markdown: kramdown
 #highlighter: rouge
 kramdown:
   input: GFM
