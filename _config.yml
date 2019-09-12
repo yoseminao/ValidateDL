@@ -11,16 +11,16 @@ gems:
 #baseurl: "/projectname"
 url: ""
 enforce_ssl: ""
-baseurl: "/jekyllBasic"
+baseurl: "/ValidateDL"
 
 # Title of website
-title: Project Name
+title: LTO Driver's License Validator
 
 #Default keywords (used if no keywords are specified on a page basis)
-keywords: test1, test2, etc
+keywords: LTO, Driver, License
 
 # Short description of your site
-desc: Sample Description
+desc: Philippines LTO Driver's License Validator
 
 # --- Navigation bar options --- #
 
