@@ -1,0 +1,10 @@
+{
+  "Status": "Valid",
+  "LicenseNumber": "A00-XYZ-12345",
+  "Birthdate": "12/31/2000",
+  "Gender": "M",
+  "First": "Juan",
+  "Middle": "Bautista",
+  "Last": "Dela Cruz",
+  "Expire": "12/31/2045"
+ }
